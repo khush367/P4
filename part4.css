@@ -1,0 +1,36 @@
+
+/*DEVELOPER: Khush Patel, IS117-004, Spring, 2024 */
+.featured{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    line-height: normal;
+}
+
+
+.welcome{
+    text-align: center;
+    line-height: normal;
+    color: burlywood;
+}
+
+.product-title{
+    text-align: center;
+    color:cornflowerblue;
+}
+
+.about{
+    text-align: left;
+    display: inline-block;
+    width: 100%;
+    background-color: rgb(32, 35, 42);
+    color:white;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%; 
+}
+
